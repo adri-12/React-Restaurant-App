@@ -1,0 +1,13 @@
+@import "_navbar.scss";
+@import "_home-page.scss";
+@import "_restaurant-page.scss";
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: #e3e3e6;
+}

@@ -1,0 +1,51 @@
+.navbar {
+  background: #fff;
+  position: sticky;
+  z-index: 1;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  height: 8vh;
+  border-bottom: 1px solid #d1caca;
+  .items-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 90%;
+    a {
+      text-decoration: none;
+      color: #000;
+      &:hover {
+        color: #4b4a4a;
+      }
+    }
+    h2 {
+      cursor: pointer;
+    }
+    .account-container {
+      display: flex;
+      flex-direction: row;
+      .account {
+        &:hover {
+          cursor: pointer;
+          color: #4b4a4a;
+        }
+        .fa-user {
+          margin-right: 10px;
+          height: 25px;
+        }
+        span {
+          font-size: 18px;
+        }
+      }
+      .fa-bag-shopping {
+        margin-left: 30px;
+        height: 25px;
+        &:hover {
+          cursor: pointer;
+          color: #4b4a4a;
+        }
+      }
+    }
+  }
+}

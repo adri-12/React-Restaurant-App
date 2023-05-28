@@ -1,0 +1,276 @@
+{
+  "restaurants": [
+    {
+      "name": "McDonald",
+      "id": "0",
+      "image": "/images/0.png",
+      "address": "Piata Mihai Viteazu 1",
+      "schedule": "7 AM - 12 PM",
+      "minimum_order": "Minimum order - 50 RON",
+      "maximum_distance": "Maximum Distance 10 KM",
+      "delivery_fee": "Delivery Fee 12 RON",
+      "extra_delivery_fee": "Extra Delivery Fee 5 RON/KM",
+      "menu": [
+        {
+          "name": "CHEESY BURGER PUI",
+          "image": "/restaurant-meniu/mc-meniu-cheesy-burger.jpg",
+          "price": "29.00 Lei",
+          "description": "Cheesy Chicken Burger cu carne pui in fulgi de porumb, branza cu Cheddar in pesmet, salata, ceapa prajita si sos Cheddar Smokey Bacon ",
+          "id": "0"
+        },
+        {
+          "name": "GRAND HOME MENIU MIX",
+          "price": "96.30 Lei",
+          "description": "MAXI Quarter Pounder with Cheese, Meniu MAXI Big Mac, Meniu MAXI Filet-o-Fish, împreună cu 1 x sendviș McPuișor, 1 x sendviș Hamburger, 3 x Plăcină Vișine",
+          "image": "/restaurant-meniu/mc-meniu-grand-home.jpg",
+          "id": "1"
+        },
+        {
+          "name": "GOUDA PILLOW",
+          "price": "11.10 Lei",
+          "description": "PernIte umplute cu branza Gouda, in crusta crocanta",
+          "image": "/restaurant-meniu/mc-meniu-gouda.jpg",
+          "id": "2"
+        }
+      ]
+    },
+    {
+      "name": "Grande",
+      "id": "1",
+      "image": "/images/1.png",
+      "address": "Strada, Piața 1 Mai 4-5",
+      "schedule": "9 AM - 10 PM",
+      "minimum_order": "Minimum order - 50 RON",
+      "maximum_distance": "Maximum Distance 20 KM",
+      "delivery_fee": "Delivery Fee 15 RON",
+      "extra_delivery_fee": "Extra Delivery Fee 5 RON/KM",
+      "menu": [
+        {
+          "name": "Pizza Casei",
+          "price": "36.99 Lei",
+          "description": "Aluat cu maia, sos alb, mozzarella fior di latte, fâşii din piept de pui marinat picant, în crustă crocantă de pesmet, crispy bacon, grana padano, usturoi, sare - 520g",
+          "image": "/restaurant-meniu/grande-pizza-casei.jpg",
+          "id": "0"
+        },
+        {
+          "name": "Meniu 5 Crispy Chicken",
+          "price": "40.99 Lei",
+          "description": "5 fâşii din piept de pui picant/nepicant marinat, în crustă crocantă de pesmet, sare, sos la alegere, garnitură la alegere - 150/150/80g",
+          "image": "/restaurant-meniu/grande-crispy.jpg",
+          "id": "1"
+        },
+        {
+          "name": "Grande Burger",
+          "price": "36.99 Lei",
+          "description": "Chiflă artizanală, carne de vită black angus, bacon prăjit, caşcaval cheddar, salată verde, roşii, maioneză, sos sweet chilli, sare- 300g",
+          "image": "/restaurant-meniu/grande-burger.jpg",
+          "id": "2"
+        }
+      ]
+    },
+    {
+      "name": "MamaManu",
+      "id": "2",
+      "image": "/images/2.jpg",
+      "address": "Strada Piezisa 23",
+      "schedule": "7 AM - 12 PM",
+      "minimum_order": "Minimum order - 60 RON",
+      "maximum_distance": "Maximum Distance 30 KM",
+      "delivery_fee": "Delivery Fee 17 RON",
+      "extra_delivery_fee": "Extra Delivery Fee 6 RON/KM",
+      "menu": [
+        {
+          "name": "Shaorma de pui la farfurie",
+          "price": "37.49 Lei",
+          "description": "Carne de pui 80 g, cartofi 40 g, salată asortată 60 g, murături 10 g, maioneză 15 g, ketchup 15 g, lipie sau chiflă 80 g - 300 g",
+          "image": "/restaurant-meniu/manu-shaorma-farfurie.jpg",
+          "id": "0"
+        },
+        {
+          "name": "Shaorma de pui lipie medie",
+          "price": "27.99 Lei",
+          "description": "Carne de pui 40 g, cartofi 15 g, salată asortată 20 g, murături 5 g, maioneză 5 g, ketchup 5 g, lipie 50 g - 140 g",
+          "image": "/restaurant-meniu/manu-shaorma-lipie.jpg",
+          "id": "1"
+        },
+        {
+          "name": "Shawarma cu cascaval la bagheta",
+          "price": "32.49 Lei",
+          "description": "Carne de pui, 2 felii de cașcaval, cartofi, salată asortată, ketchup, maioneză, baghetăn - 380 g",
+          "image": "/restaurant-meniu/manu-shaorma-bagheta.jpg",
+          "id": "2"
+        }
+      ]
+    },
+    {
+      "name": "Rosa",
+      "id": "3",
+      "image": "/images/3.jpg",
+      "address": "Strada Bugeci 7-9",
+      "schedule": "8 AM - 9 PM",
+      "minimum_order": "Minimum order - 60 RON",
+      "maximum_distance": "Maximum Distance 10 KM",
+      "delivery_fee": "Delivery Fee 17 RON",
+      "extra_delivery_fee": "Extra Delivery Fee 2 RON/KM",
+      "menu": [
+        {
+          "name": "Mix Shaorma + Cascaval Pane",
+          "price": "26.99 Lei",
+          "description": "Shaorma de pui, Cașcaval Pane, cartofi prăjiti, lipie, sosuri si salate la alegere - 495 g",
+          "image": "/restaurant-meniu/rosa-mix.jpg",
+          "id": "0"
+        },
+        {
+          "name": "Snitel Samurai bagheta",
+          "price": "19.99 Lei",
+          "description": "Snitel din piept de pui cu cas, cartofi prajiti, lipie, sosuri si salate la alegere - 420g",
+          "image": "/restaurant-meniu/rosa-sniztel-samurai-bagheta.jpg",
+          "id": "1"
+        },
+        {
+          "name": "Salata Crispy",
+          "price": "18.99 Lei",
+          "description": "Fâșii din piept de pui picante, legume si sos la alegere -320g",
+          "image": "/restaurant-meniu/rosa-salata-crispy.jpg",
+          "id": "2"
+        }
+      ]
+    },
+    {
+      "name": "BigBelly",
+      "id": "4",
+      "image": "/images/4.jpg",
+      "address": "Calea Manastur 68",
+      "schedule": "9 AM - 10 PM",
+      "minimum_order": "Minimum order - 40 RON",
+      "maximum_distance": "Maximum Distance 20 KM",
+      "delivery_fee": "Delivery Fee 20 RON",
+      "extra_delivery_fee": "Extra Delivery Fee 5 RON/KM",
+      "menu": [
+        {
+          "name": "Supa crema de legume cu pui",
+          "price": "18.00 Lei",
+          "description": "Ingrediente: Morcov, ceapă, țelină, cartofi, ardei, usturoi, păstârnac, condimente, piept de pui, crutoane asezonate. Alte info: Este servită cu fâșii de piept de pui tras la tigaie și crutoane asezonate - 400 g",
+          "image": "/restaurant-meniu/bigbelly-supa-crema.jpg",
+          "id": "0"
+        },
+        {
+          "name": "Pizza PROMO Prosciutto e rucola",
+          "price": "64.00 Lei",
+          "description": "Două pizza la preț special! Sos de roșii, mozzarella, roșii cherry, prosciutto crudo, rucola, parmezan 720 g",
+          "image": "/restaurant-meniu/bigbelly-pizza.jpg",
+          "id": "1"
+        },
+        {
+          "name": "BBQ Ribs Pack",
+          "price": "46.00 Lei",
+          "description": "Costiță de porc caramelizată în sos BBQ - gătită după rețeta proprie. Cartofi fierți, trași la tigaie cu ceapă verde. Un mix de salată proaspată, condimentată 700 g",
+          "image": "/restaurant-meniu/bigbelly-BBQRibs.jpg",
+          "id": "2"
+        }
+      ]
+    },
+    {
+      "name": "Nobori",
+      "id": "5",
+      "image": "/images/5.png",
+      "address": "Strada Plopilor 62",
+      "schedule": "9 AM - 8 PM",
+      "minimum_order": "Minimum order - 90 RON",
+      "maximum_distance": "Maximum Distance 7 KM",
+      "delivery_fee": "Delivery Fee 25 RON",
+      "extra_delivery_fee": "Extra Delivery Fee 5 RON/KM",
+      "menu": [
+        {
+          "name": "Supa de ciuperci",
+          "price": "28.00 Lei",
+          "description": "Supă asiatică de ciuperci, aromatizată cu usturoi, soia și dashi, îmbelșugată cu fulgi crocanți de ceapă;",
+          "image": "/restaurant-meniu/nobori-supa-ciuperci.jpg",
+          "id": "0"
+        },
+        {
+          "name": "Pesto Beggie Roll",
+          "price": "32.00 Lei",
+          "description": "Rolă de sushi cu avocado, sos pesto, roșii uscate, susan, orez și alge nori; Se servește cu wasabi, sos de soia și ghimbir murat; Produs vegetarian (fără carne); 8 buc; 200 g;",
+          "image": "/restaurant-meniu/nobori-rolls.jpg",
+          "id": "1"
+        },
+        {
+          "name": "Nigiri de somon",
+          "price": "13.00 Lei",
+          "description": "Sushi cu orez peste care se așează o felie de somon crud; Se servește cu wasabi, sos de soia și ghimbir murat; 1 buc; 25 g; ",
+          "image": "/restaurant-meniu/nobori-nigiri.jpg",
+          "id": "2"
+        }
+      ]
+    },
+    {
+      "name": "KFC",
+      "id": "6",
+      "image": "/images/6.png",
+      "address": "Strada Iuliu Maniu 1",
+      "schedule": "7 AM - 12 PM",
+      "minimum_order": "Minimum order - 80 RON",
+      "maximum_distance": "Maximum Distance 10 KM",
+      "delivery_fee": "Delivery Fee 25 RON",
+      "extra_delivery_fee": "Extra Delivery Fee 5 RON/KM",
+      "menu": [
+        {
+          "name": "Mozzarella Burger Box",
+          "price": "49.00 Lei",
+          "description": "Zinger®/ Fillet® Mozzarella Burger 260g, 3 Hot Wings® 75g, o porție mare de cartofi prăjiți 120g, o băutură răcoritoare 0.5 L",
+          "image": "/restaurant-meniu/kfc-mozzarella-box.jpg",
+          "id": "0"
+        },
+        {
+          "name": "Meniu Popcorn Chicken",
+          "price": "37.00 Lei",
+          "description": "Popcorn Chicken 150 g, o porție mare de cartofi prăjiți 120 g și o băutură 0.5 L",
+          "image": "/restaurant-meniu/kfc-popcorn-meniu.jpg",
+          "id": "1"
+        },
+        {
+          "name": "Mozzarella Burger",
+          "price": "27.00 Lei",
+          "description": "Piept de pui picant, Mozzarella pane, roșii, salată French mix, sos burger, sos cu roșii și usturoi, chiflă cu susan",
+          "image": "/restaurant-meniu/kfc-mozzarella-burger.jpg",
+          "id": "2"
+        }
+      ]
+    },
+    {
+      "name": "Gyroserie",
+      "id": "7",
+      "image": "/images/7.jpg",
+      "address": "Strada Victor Babes 10",
+      "schedule": "12 AM - 9 PM",
+      "minimum_order": "Minimum order - 60 RON",
+      "maximum_distance": "Maximum Distance 7 KM",
+      "delivery_fee": "Delivery Fee 20 RON",
+      "extra_delivery_fee": "Extra Delivery Fee 5 RON/KM",
+      "menu": [
+        {
+          "name": "Portokalopita 145 gr",
+          "price": "26.00 Lei",
+          "description": "O plăcintă tradițională din Grecia, care îți inundă simțurile cu aromele sale. Blatul din foi de plăcintă este bine însiropat, cu o textură cremoasă dată de iaurt.",
+          "image": "/restaurant-meniu/gyro-placinta.jpg",
+          "id": "0"
+        },
+        {
+          "name": "Mega gyros de pui",
+          "price": "38.00 Lei",
+          "description": "Pita greceasca, carne de pui rotisata, sos grecesc tzatziki, crema de branza feta usor picanta tirokafteri, rosii proaspete, inele de ceapa fin taiate si cartofi prajiti. 500 gr",
+          "image": "/restaurant-meniu/gyro-mega-gyros.jpg",
+          "id": "1"
+        },
+        {
+          "name": "Baklava 155 gr",
+          "price": "26.00 Lei",
+          "description": "155 gr Un desert turcesc cunoscut în toată lumea și iubit de către cei care caută preparatul perfect pentru a-și face pofta de dulce.",
+          "image": "/restaurant-meniu/gyro-baklava.jpg",
+          "id": "2"
+        }
+      ]
+    }
+  ]
+}
